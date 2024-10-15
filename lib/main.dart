@@ -124,9 +124,7 @@ class MyHomePage extends StatefulWidget {
   }
 }
 
-<<<<<<< HEAD
 //this is a comment made by SHOAIB ahamed for the sake of cs699 project and RAVI.
-=======
 //this is a comment made by SHOAIB ahamed for the sake of cs699 project and AMAL
 //this is a comment made by SHOAIB ahamed for the sake of cs699 project and RAVI
->>>>>>> 5a2752ebdae19ebc955d1efddd79dfaed30113ae
+//this is AMAL here
